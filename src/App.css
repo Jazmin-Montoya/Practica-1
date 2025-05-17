@@ -1,20 +1,28 @@
 .container {
-  padding: 20px;
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  padding: 30px;
+  width: 100%;
+  font-family:'Times New Roman', Times, serif;
 }
 
 .input-texto {
-  width: 30%;
-  margin-bottom: 10px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  border:2px solid #8172ac ;
+  width: 100%;
+  margin-bottom: 50%;
+  padding: 10px;
+  font-family:'Times New Roman', Times, serif;
 
 }
 
 .texto-mostrado {
   word-break: break-word;
-  border: 1px solid #8172ac;
+  border: 2px solid #8172ac;
   padding: 10px;
-  width: 100px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  margin-bottom: 50%;
+  width: 100%;
+  font-family:'Times New Roman', Times, serif;
 
+}
+
+.h4{
+  font-family:'Times New Roman', Times, serif;
 }

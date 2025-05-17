@@ -17,7 +17,7 @@ function App() {
                 onChange={handleTexto} 
                 className="input-texto" 
             />
-            <h3>Su texto</h3>
+            <h4>Su texto</h4>
             <div className="texto-mostrado">
                 {texto}
             </div>
